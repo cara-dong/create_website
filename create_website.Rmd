@@ -1,0 +1,8 @@
+---
+title: "Untitled"
+author: "Manye Dong"
+date: "2023-10-26"
+output: github_document
+---
+
+check if github is ready
